@@ -1,0 +1,4 @@
+prettytable
+six
+wcwidth
+prompt-toolkit

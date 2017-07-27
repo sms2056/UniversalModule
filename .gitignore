@@ -7,4 +7,5 @@ Desktop.ini
 *.pyc
 
 #VS Code
+/.vscode/
 /__pycache__/
